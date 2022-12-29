@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zyquier
 - 👀 I’m interested in ...CYBER & PYTHON
 - 🌱 I’m currently learning ... DATA|CYBER
-- 💞️ I’m looking to collaborate on ...CYBER WORK
+- 💞️ I’m looking to collaborate on ...PYTHON WORK
 - 📫 How to reach me ...
 
 <!---
